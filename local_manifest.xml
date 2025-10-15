@@ -11,7 +11,6 @@
   <project name="proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" remote="TheMuppets" revision="lineage-22.2" />
   <project name="proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" remote="TheMuppets" revision="lineage-22.2" />
   <project path="kernel/xiaomi/sdm845" name="android_kernel_xiaomi_sdm845" remote="LineageOSS" revision="lineage-22.2" />
-  <project path="hardware/xiaomi" name="PixelOS-AOSP/android_hardware_xiaomi" groups="generic_fs,pixel,pdk-gs-arm,pdk-gs-imgtec,pdk-desktop" remote="github" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" groups="generic_fs,pixel,pdk-gs-arm,pdk-gs-imgtec,pdk-desktop" remote="bloom" />
         
-  
 </manifest>
